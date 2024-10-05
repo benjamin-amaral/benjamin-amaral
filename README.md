@@ -9,9 +9,18 @@
 - 💬 Pergunte me sobre os melhores animes e te recomendarei um.
 - 📫 Contate-me no e-mail: amaralbenjie@gmail.com
 
-[![Benjie's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=benjamin-amaral&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/benjamin-amaral/github-readme-stats#gh-dark-mode-only)
-[![Benjie's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=benjamin-amaral&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/benjamin-amaral/github-readme-stats#gh-light-mode-only)
 
+## **GitHub Statistics**
+
+<a href="https://github.com/benjamin-amaral">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=benjamin-amaral&show_icons=true&theme=dark&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
+
+<a href="https://github.com/benjamin-amaral">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjamin-amaral&theme=dark&hide_langs_below=1" />
+</a>
+
+</a>
 
 
 <!--
@@ -26,3 +35,9 @@ Here are some ideas to get you started:
 - 💬 Pergunte me sobre os melhores animes e te recomendarei um.
 - 📫 Contate-me no e-mail: amaralbenjie@gmail.com
 
+Contador de visitantes
+![pv](https://pageview.vercel.app/?github_user=benjamin-amaral)
+
+Status github
+[![Benjie's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=benjamin-amaral&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/benjamin-amaral/github-readme-stats#gh-dark-mode-only)
+[![Benjie's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=benjamin-amaral&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/benjamin-amaral/github-readme-stats#gh-light-mode-only)
