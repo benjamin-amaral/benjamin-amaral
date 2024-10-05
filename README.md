@@ -22,6 +22,10 @@
 
 </a>
 
+![Snake animation](https://github.com/benjamin-amaral)
+  
+
+
 
 <!--
 **benjamin-amaral/benjamin-amaral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
